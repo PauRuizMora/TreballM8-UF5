@@ -1,0 +1,35 @@
+body{
+    background-image: url(../fotos/paper.jpg);
+}
+
+*{
+    font-family: 'Shadows Into Light', cursive;
+}
+
+h1, h2, h3, h4, h5{text-align:center;}
+img{
+    float:left;
+}
+
+p{
+    text-align:center;
+    margin-left:25px;
+    font-size:22px;
+}
+nav table th a{
+    text-decoration:none;
+    color:black;
+    font-size:20px;
+    font-family: 'Shadows Into Light', cursive;
+    text-align:center;
+}
+nav table th{
+    padding-right:50px;
+    padding-left:50px;
+}
+div{
+    text-decoration:center;
+}
+table {
+    width: 60%;
+}

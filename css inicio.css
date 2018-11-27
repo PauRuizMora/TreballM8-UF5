@@ -1,0 +1,30 @@
+h1, h2 {
+    color:white;
+    font-size:80px;
+    text-align:center;
+    font-family: 'Luckiest Guy', cursive;
+}
+
+body{
+    background-color: black;
+}
+nav table td a{
+    text-decoration:none;
+    font-size:40px;
+    color:white;
+    font-family: 'Spicy Rice', cursive;
+}
+table{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+td {
+    text-align: center;
+}
+h5{
+    font-size:20px;
+    text-align:center;
+    color:white;
+    font-family: 'Luckiest Guy', cursive;
+}
